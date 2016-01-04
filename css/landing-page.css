@@ -39,6 +39,8 @@ h6 {
     position: relative;
     padding-top: 20%;
     padding-bottom: 20%;
+    padding-right: 10%;
+    padding-left: 10%;
 }
 
 .intro-message > h1 {
@@ -53,8 +55,12 @@ h6 {
     border-bottom: 1px solid rgba(0,0,0,0.2);
 }
 
-.intro-message > h3 {
+.intro-message > h2, h3 {
     text-shadow: 2px 2px 3px rgba(0,0,0,0.6);
+}
+
+.intro-message > h2 {
+    font-size: 48px;
 }
 
 @media(max-width:767px) {
@@ -88,15 +94,25 @@ h6 {
     letter-spacing: 2px;
 }
 
-.content-section-a {
-    padding: 50px 0;
-    background-color: #f8f8f8;
+.content {
+  padding-right: 10%;
+  padding-left: 10%;
+  padding-top: 20px;
+  padding-bottom: 20px;
 }
 
-.content-section-b {
-    padding: 50px 0;
-    border-top: 1px solid #e7e7e7;
-    border-bottom: 1px solid #e7e7e7;
+.content > h2 {
+  text-align: center;
+  font-size: 40px;
+}
+
+.content > h3 {
+  text-shadow: none;
+}
+
+
+#courses {
+  background-color: #2CB04A;
 }
 
 .section-heading {
