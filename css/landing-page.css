@@ -55,12 +55,13 @@ h6 {
     border-bottom: 1px solid rgba(0,0,0,0.2);
 }
 
-.intro-message > h2, h3 {
+.intro-message > h2 {
     text-shadow: 2px 2px 3px rgba(0,0,0,0.6);
+    font-size: 48px;
 }
 
-.intro-message > h2 {
-    font-size: 48px;
+.intro-message > h3 {
+    text-shadow: 2px 2px 3px rgba(0,0,0,0.6);
 }
 
 @media(max-width:767px) {
@@ -95,20 +96,21 @@ h6 {
 }
 
 .content {
+  font-weight: normal;
+  font-size: 20px;
   padding-top: 20px;
-  padding-bottom: 20px;
+  padding-bottom: 60px;
+  padding-left: 60px;
+  padding-right: 60px;
+  text-shadow: none;
+  color: white;
 }
 
 .content > h2 {
   text-align: center;
   font-size: 40px;
+  color: black;
 }
-
-.content > h3 {
-  text-shadow: none;
-  color: white;
-}
-
 
 #courses {
   background-color: #2CB04A;
