@@ -109,6 +109,11 @@ h6 {
   color: black;
 }
 
+.simple-content {
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
 #courses, #benefits {
   background-color: #2CB04A;
   color: white;
