@@ -37,8 +37,8 @@ h6 {
 
 .intro-message {
     position: relative;
-    padding-top: 20%;
-    padding-bottom: 20%;
+    padding-top: 50px;
+    padding-bottom: 50px;
     padding-right: 10%;
     padding-left: 10%;
 }
@@ -112,6 +112,25 @@ h6 {
 .simple-content {
   padding-top: 50px;
   padding-bottom: 50px;
+}
+
+.list-subscribe {
+  padding: 50px;
+  padding-top: 30px;
+  margin-top: 30px;
+  margin-left: 100px;
+  margin-right: 100px;
+  border-radius: 10px;
+  background-color:rgba(0, 0, 0, 0.5);
+}
+
+.btn-main {
+  background-color: #2CB04A;
+  border-color: #2CB04A;
+  width: 200px;
+  font-size: 18px;
+  color: white;
+  padding-top: 10px;
 }
 
 #courses, #benefits {
