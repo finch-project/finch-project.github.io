@@ -8,25 +8,20 @@
           </div>
 
           <div class="row">
-            <div class="col-md-4">
-              <h3>Édition numérique</h3>
-              Introduction aux systèmes d'information  de l'édition numérique. ONIX. Création et contrôle de qualité des fichiers EPUB. Métadonnées: pourquoi et comment? BISAC, Thema et les systèmes de classification. Comprendre les outils de la DRM d'Adobe. Les standards d'identification de produits: ISBN, ISSN, ISNI et les autres. et plus...
-            </div>
 
-            <div class="col-md-4">
-              <h3>Logiciels spécialisés</h3>
-              Word et ses applications en édition. Introduction à iBooksAuthor. Gérer ses rapports avec Excel. et plus...
-            </div>
 
-            <div class="col-md-4">
-              <h3>Gestion et productivité</h3>
-              Gestion de projets agile. Scrum. Kanban. Gestion du temps avec GTD. Prise de notes efficaces. Mindmapping et pensée visuelle. et plus...
+            {% for cat in site.categories %}
+            {% assign catego = cat[0] %}
+            <div class="col-md-3">
+              <h3>{{ cat[0] | capitalize }}</h3>
+                {% for post in site.posts %}
+                  {% if post.categories contains cat[0] %}
+                    <a href="{{ post.url }}">{{post.title}}</a>.
+                  {% endif %}
+                {% endfor %}
             </div>
+            {% endfor %}
 
-            <div class="col-md-4">
-              <h3>Commercialisation</h3>
-              Vendre à l'étranger. Techniques de growth hacking. Faire des présentations gagnantes. Promouvoir avec les réseaux sociaux. Techniques de SEO. et plus...
-            </div>
           </div>
 
         </div>

@@ -1,0 +1,112 @@
+Ready?,Category,Code,Title,Description,Objectives,Audience
+Oui,Technologie,systemes-information-gestion,Introduction aux systèmes d'information de gestion,"Les technologies et les systèmes d’information jouent aujourd’hui un rôle essentiel dans plusieurs activités humaines et économiques. Bien que la place du numérique soit différente d’une industrie à l’autre, il n’y a plus de secteur d’activité qui ne soit pas touché. Ce cours est une introduction aux systèmes d’information à l’intention de gestionnaires non techniques de tous les secteurs d’activités. Il contient:
+
+* une introduction à théorie des systèmes d’information ;
+* une présentation sur les mécanismes d’intégration de système ;
+* une discussion de 11 enjeux de gouvernance importants relatifs aux systèmes d’information ;
+* trois études de cas pratiques qui illustrent la matière du cours dans des contextes concrets d’industries différentes.
+","À la fin du cours, vous aurez une connaissance de base des thèmes suivants:
+
+* la théorie de base des systèmes d’information (application, données, métadonnées, ...) ;
+* l’intégration et l’interconnexion des systèmes d’information (services web, API, FTP, formats ouverts, XML …) ;
+* l’infonuagique (le cloud, les SaaS, …)
+* les enjeux de gouvernance des systèmes d’information sous trois facettes:
+* performance: disponibilité, temps réponse, capacité de mise à l’échelle
+* légaux: sécurité, propriété intellectuelle, confidentialité et protection des renseignements personnels
+* gestion: gestion de projet, gestion du changement, réversibilité, continuité des opérations.
+
+Vous aurez également les connaissances et le vocabulaire suffisants pour:
+
+* tenir des conversations cohérentes au sujet de systèmes d’information ;
+* discuter de l’architecture des systèmes d’information de votre organisation et en comprendre le fonctionnement global ;
+* savoir poser des questions pertinentes sur les systèmes d’information au moment de faire des choix d’investissement, acquérir des licences, conclure des contrats d’impartition avec des fournisseurs en technologie ;
+* commencer si vous le souhaitez l’apprentissage d’un ou plusieurs sytèmes, en sachant où ils se situent dans un contexte plus général ;
+* aller plus loin et approfondir une des thématique du cours.
+","Ce cours s’adresse aux professionnels et aux gestionnaires de différents domaines, peu importe dans quelle spécialité ils oeuvrent. Il ne demande pas de connaissances techniques particulières, bien qu’il porte sur des enjeux de systèmes techniques. 
+
+Il répondra aux besoins:
+
+* de gestionnaires ou de professionnels n’ayant pas un profil technique et qui ont à interagir avec une équipe de spécialistes des systèmes d’information ;
+* d’entrepreneurs qui souhaitent choisir ou superviser des fournisseurs en technologies de l’information ;
+* de spécialistes des systèmes d’information ou des technologies ayant accumulé une expérience pratique des systèmes et qui souhaitent l’enrichir des bases théoriques.
+
+Il ne répondra pas à vos besoins si vous cherchez à comprendre les modèles d’affaires, la commercialisation ou la législation entourant les systèmes d’information, ou si vous souhaitez obtenir de l’information technique détaillée sur certains systèmes spécifiques.
+"
+Oui,Édition,systemes-information-edition-numerique,Les systèmes d'information et les technologies de l'édition numérique,"Le numérique a bouleversé le monde de l'édition depuis quelques années. Il n'est plus possible de l'ignorer.
+
+Ce cours porte sur les systèmes d'information et les technologies qui sont utilisées à travers la chaîne de valeur de l'édition numérique. Il s'agit d'un panorama complet des principaux systèmes utilisés à travers la chaîne du livre.","À la fin du cours, vous connaîtrez:
+* types de systèmes (entrepôts numériques, mesures techniques de protection, catalogue en ligne, etc.) ;
+* formats de livres numériques (EPUB, PDF, Mobi, iBooks) ;
+* mécanismes d'échanges de données (ONIX, OPDS, etc.).
+
+Sans devenir expert de chacun des sujets, vos connaissances vous permettront de bien situer chacune de ces technologies, leurs rôles et leurs interactions.","Ce cours s'adresse aux acteurs de la chaîne de valeur du livre (auteurs éditeurs, distributeurs, diffuseurs, revendeurs, bibliothèques) ainsi qu'à leurs collaborateurs.
+
+Il n'a pas de pré-requis particulier, mais votre apprentissage sera optimisé si vous avez déjà lu ou vu un livre numérique.
+
+De plus, nous cours d'introduction aux systèmes d'information de gestion est recommandé préalablement à celui-ci si vous n'avez pas déjà une compréhension de base des systèmes et des technologies."
+Non,Édition,comprendre-onix,Comprendre ONIX,,,
+Non,Édition,comprendre-epub,Comprendre EPUB,"EPUB sert pourle livre numérique, mais également d'autres objectifs -- genre documentation interne. 
+
+Création et contrôle de qualité des fichiers EPUB. Aussi dans perspective de faire affaire avec des fournisseurs.","connaître le contenu d'EPUB
+savoir contrôle qualité
+savoir interagir avec fournisseur",
+Non,Édition,comprendre-metadonnees,Métadonnées: pourquoi et comment?,,,
+Non,Édition,bisac-thema-systems-classification,"BISAC, Thema et les systèmes de classification",,,
+Non,Édition,standards-identification-produits-isbn-issn-isni,"Les standards d'identification de produits: ISBN, ISSN, ISNI et les autres. et plus...",,,
+Non,Technologie,utiliser-microsoft-word,Utilisation de Microsoft Word,,,
+Oui,Technologie,utiliser-suite-google-telecollaboration,La suite bureautique Google et ses outils de télécollaboration.,"Fatigué d'échanger de nombreuses révisions d'un même document dans un enchaînement d'échanges courriels difficile à suivre? Vous avez développé une allergie aux marques de révision impossible à comprendre? Vous ne voulez plus avoir à fusionner les changements apportés par deux personnes sur des copies différentes d'un contrat? Vous aimeriez que vos processus de collaboration en numérique soient plus efficaces?
+
+Il existe des solutions modernes qui vous éviteront tous ces problèmes.
+
+Ce cours porte sur l'une d'elles, la suite bureautique de Google. Gratuite et disponible sur le web (en mode infonuagique), cette suite bureautique qui n'a rien à envoyer à d'autres produits, est parfaitement optimisée pour la télécollaboration et la gestion du travail en équipe.","À la fin du cours, vous aurez appris:
+
+* comment obtenir un accès à la suite bureautique Google
+* gérer vos documents
+* partager vos documents avec des collègues
+
+Vous saurez utiliser Docs, le traitement de texte de la suite, ses outils d'annotation, de révision, et collaboration et d'historique.
+
+Vous aurez également été introduits à Sheets (tableur), Slides (présentaitons) et Drawings (schémas).
+
+Si vous appliquez ces connaissances à des projets concrets, vous serez en mesure de gagner en efficacité, réduire les erreurs et augmenter la performance de votre équipe.","Ce cours s'adresse à tout professionnel qui doit travailler en équipe sur des documents bureautiques (traitement de texte, tableur, présentations, schémas).
+
+Vous devez avec des connaissances de base dans les outils bureautiques (par exemple, avoir déjà utilisé Microsoft Word ou LibreOffice), car le cours ne porte pas sur les fonctionnalités de base (de type copier-coller, mise en forme du texte, etc.)"
+Non,Technologie,gestion-projets-trello,"Gestion de projets simple, agile et collaborative avec Trello",,,
+Non,Technologie,utiliser-microsoft-excel,Utilisation de Microsoft Excel,,,
+Non,Commercialisation,connaitre-site-web-google-analytics,Connaître les usagers de son site web avec Google Analytics,,,
+Non,Commercialisation,techniques-seo,Techniques de SEO,,,
+Non,Commercialisation,techniques-growth-hacking,Techniques de growth hacking,,,
+Oui,Commercialisation,presentations-gagnantes,Faire des présentations gagnantes en personne ou à distance,"Dans le livre _To Sell is Human_, l'auteur à succès Daniel Pink affirme que bien que seulement 1 personne sur 9 déclare que son métier est de vendre, en réalité désormais tous les professionnels doivent convaincre des gens de leur céder des ressources (du temps, de l'attention, etc.) et qu'en conséquent, nous sommes tous un peu des _vendeurs_.
+
+Une des habilités essentielles pour convaincre est de savoir faire des présentations efficaces. Ce cours explore les techniques et outils pour devenir un présentateur d'exception.","Ce cours vous permettra de développer des habiletés concernant:
+
+* la préparation d'un support de présentation original qui évitera d'endormir votre auditoire ;
+* des techniques de présentation dynamiques qui vous aideront à passer vos messages ;
+* les situations, de plus en plus fréquentes, de présentations à distance.",Tout gestionnaire ou professionnel ayant à faire des présentations à l'intérieur ou l'extérieur de son organisation.
+Non,Gestion et productivité,gestion-projets-agile,Gestion de projets agile,,,
+Non,Gestion et productivité,gestion-projets-scrum,Scrum,,,
+Non,Gestion et productivité,gestion-projets-kanban,Kanban,,,
+Non,Gestion et productivité,temps-productivite,Gestion du temps et de la productivité à l'ère de l'instantanéité et du numérique,,,
+Oui,Gestion et productivité,prise-notes-gestionnaire,Techniques de prise de notes efficaces pour gestionnaire,"Il y a des dizaines de raisons de vouloir prendre des notes efficaces:
+* c'est une façon de combattre la perte de productivité associée aux nombreuses interuptions qui sont devenues le lot de plusieurs gestionnaires
+* Andy Grove, reconnu comme un des meilleurs PDG de l'histoire, insiste sur le fait que les [gestionnaires doivent prendre des notes](https://getlighthouse.com/blog/andy-grove-quotes-leadership-high-output-management/), en particulier lors des rencontres avec leurs équipes
+* de façon similaire, les [gestionnnaires de produits doivent impérativement documenter les décisions](https://medium.com/greylock-perspectives/let-s-talk-about-product-management-d7bc5606e0c4#.rc0qiyp68) pour s'assurer d'une bonne exécution
+* prendre des notes, c'est avoir le pouvoir d'ancrer, par écrit, ce qui sera retenu d'une rencontre, d'un projet, d'une discussion
+* et bien d'autres
+
+Ce cours traite de différentes stratégies et outils pour non seulement prendre des notes de façon efficaces, mais savoir les utiliser et les rendre _actionnables_ pour en faire de puissants outils de gestion.",,"Gestionnaires d'équipe, gestionnaires de projets, gestionnaires de produits, scrum masters, gestionnaires de comptes, chef d'équipes, et plus largement quiconque doit gérer des interactions avec plusieurs personnes, ou doit accomplir un travail tout en faisant l'objet d'interruptions."
+Non,Gestion et productivité,mindmapping-techniques-pensee-visuelle,Le mindmapping et les autres techniques de pensée visuelle,,,
+Oui,Gestion et productivité,techniques-veille-numerique,Techniques de veille numérique efficace,"La quantité d'information dont nous disposons explose avec le web et les réseaux sociaux. Et avec cette augmentation de l'offre vient une augmentation des attentes. Vos collègues ou vos patrons prennent pour acquis que vous avez vu l'annonce du nouveau produit de votre concurrent, la nouvelle embauche chez un de vos clients importants, et ou le prochain changement législatif qui bouleverse les paramètres de votre industrie. Et ils s'attendent à ce que vous ayez entendu parler des nouvelles tendances dans votre domaine. De votre côté, vous avez de moins en moins de temps à consacrer à des activités de veille.
+
+Comment se tenir à jour de façon efficace dans un contexte pareil? Comment trouver et absorber l'information nécessaire dans un temps optimal? Comment partager l'information avec vos collègues et votre équipe?
+
+Ce cours présente des méthodes et des outils pour répondre à ces questions.","Ce cours vous aménera à:
+
+* cibler des secteurs d'intérêt de veille
+* établir une stratégie
+* choisir des moyens pratiques pour la réaliser
+* optimiser votre temps en découpant bien les activités de collecte d'information, de lecture et de synthèse
+
+Vous apprendrez à utiliser les réseaux sociaux, les fils RSS, les agréagateurs et les alertes web comme outils de veille individuelle. Vous apprendrez également comment mutualiser vos trouvailles et travailler en équipe dans vos démarches de veille.","Tout gestionnaire ou professionnel d'un domaine qui demande de mettre à jour ses connaissances de façon continue.
+
+Des connaissances de base sur l'utilisation d'outils web (navigateur, moteur de recherche) sont nécessaires pour un apprentissage efficace."

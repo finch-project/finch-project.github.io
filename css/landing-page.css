@@ -140,6 +140,10 @@ h6 {
   padding-top: 30px;
 }
 
+#courses a {
+  color: white;
+}
+
 #benefits {
   background-color: #439FE0;
 }

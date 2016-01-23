@@ -8,6 +8,7 @@ email: info@finchp.com
 author: Projet Finch
 description: "Projet Finch. Centre d'apprentissage en ligne des organisations qui savent s'adapter. @finchproj ou www.FinchP.com."
 copyright: 'Copyright &copy; 2016 Projet Finch. Tous droits réservés.'
+exclude: [_tools]
 
 # ----------------------- #
 #    Jekyll & Plugins     #
