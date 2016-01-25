@@ -2,6 +2,7 @@
 layout: course
 title: Gestion du temps et de la productivité à l'ère de l'instantanéité et du numérique
 permalink: temps-productivite
+description_ready: false
 categories:
 - Gestion et productivité
 ---

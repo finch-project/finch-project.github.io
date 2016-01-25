@@ -2,6 +2,7 @@
 layout: course
 title: Kanban
 permalink: gestion-projets-kanban
+description_ready: false
 categories:
 - Gestion et productivité
 ---

@@ -2,6 +2,7 @@
 layout: course
 title: Techniques de veille numérique efficace
 permalink: techniques-veille-numerique
+description_ready: true
 categories:
 - Gestion et productivité
 ---

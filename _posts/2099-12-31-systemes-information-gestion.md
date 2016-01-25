@@ -2,6 +2,7 @@
 layout: course
 title: Introduction aux systèmes d'information de gestion
 permalink: systemes-information-gestion
+description_ready: true
 categories:
 - Technologie
 ---

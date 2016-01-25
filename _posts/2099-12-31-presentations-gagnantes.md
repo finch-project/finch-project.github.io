@@ -2,6 +2,7 @@
 layout: course
 title: Faire des présentations gagnantes en personne ou à distance
 permalink: presentations-gagnantes
+description_ready: true
 categories:
 - Commercialisation
 ---

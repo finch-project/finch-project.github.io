@@ -7,7 +7,9 @@ def get_courses
     course[:title] = row[3]
     course[:category] = row[1]
     course[:code] = row[2]
+    course[:description_ready] = false
     if row[0] == 'Oui'
+      course[:description_ready] = true
       course[:description] = row[4]
       course[:objectives] = row[5]
       course[:audience] = row[6]
@@ -25,6 +27,7 @@ def create_post(course)
 layout: course
 title: #{course[:title]}
 permalink: #{course[:code]}
+description_ready: #{course[:description_ready]}
 categories:
 - #{course[:category]}
 ---

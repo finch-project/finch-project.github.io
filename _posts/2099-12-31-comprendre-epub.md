@@ -2,6 +2,7 @@
 layout: course
 title: Comprendre EPUB
 permalink: comprendre-epub
+description_ready: false
 categories:
 - Édition
 ---

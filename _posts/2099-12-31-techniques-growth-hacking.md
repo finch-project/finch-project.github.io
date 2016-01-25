@@ -2,6 +2,7 @@
 layout: course
 title: Techniques de growth hacking
 permalink: techniques-growth-hacking
+description_ready: false
 categories:
 - Commercialisation
 ---

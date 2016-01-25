@@ -2,6 +2,7 @@
 layout: course
 title: La suite bureautique Google et ses outils de télécollaboration.
 permalink: utiliser-suite-google-telecollaboration
+description_ready: true
 categories:
 - Technologie
 ---

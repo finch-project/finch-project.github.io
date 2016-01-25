@@ -2,6 +2,7 @@
 layout: course
 title: Comprendre ONIX
 permalink: comprendre-onix
+description_ready: false
 categories:
 - Édition
 ---

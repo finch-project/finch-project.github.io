@@ -2,6 +2,7 @@
 layout: course
 title: Utilisation de Microsoft Excel
 permalink: utiliser-microsoft-excel
+description_ready: false
 categories:
 - Technologie
 ---

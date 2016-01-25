@@ -2,6 +2,7 @@
 layout: course
 title: Les systèmes d'information et les technologies de l'édition numérique
 permalink: systemes-information-edition-numerique
+description_ready: true
 categories:
 - Édition
 ---
@@ -12,6 +13,7 @@ Ce cours porte sur les systèmes d'information et les technologies qui sont util
 
 ## Objectifs
 À la fin du cours, vous connaîtrez:
+
 * types de systèmes (entrepôts numériques, mesures techniques de protection, catalogue en ligne, etc.) ;
 * formats de livres numériques (EPUB, PDF, Mobi, iBooks) ;
 * mécanismes d'échanges de données (ONIX, OPDS, etc.).

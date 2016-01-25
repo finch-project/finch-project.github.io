@@ -2,6 +2,7 @@
 layout: course
 title: Techniques de SEO
 permalink: techniques-seo
+description_ready: false
 categories:
 - Commercialisation
 ---

@@ -2,6 +2,7 @@
 layout: course
 title: Gestion de projets simple, agile et collaborative avec Trello
 permalink: gestion-projets-trello
+description_ready: false
 categories:
 - Technologie
 ---

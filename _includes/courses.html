@@ -16,7 +16,13 @@
               <h3>{{ cat[0] | capitalize }}</h3>
                 {% for post in site.posts %}
                   {% if post.categories contains cat[0] %}
-                    <a href="{{ post.url }}">{{post.title}}</a>.
+                    <a href="{{ post.url }}">
+                      {% if post.description_ready %}
+                        <strong>{{post.title}}</strong>
+                      {% else %}
+                        {{post.title}}
+                      {% endif %}
+                    </a>.
                   {% endif %}
                 {% endfor %}
             </div>

@@ -2,6 +2,7 @@
 layout: course
 title: Métadonnées: pourquoi et comment?
 permalink: comprendre-metadonnees
+description_ready: false
 categories:
 - Édition
 ---

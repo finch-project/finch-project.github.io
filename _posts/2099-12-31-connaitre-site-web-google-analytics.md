@@ -2,6 +2,7 @@
 layout: course
 title: Connaître les usagers de son site web avec Google Analytics
 permalink: connaitre-site-web-google-analytics
+description_ready: false
 categories:
 - Commercialisation
 ---

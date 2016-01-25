@@ -2,11 +2,13 @@
 layout: course
 title: Techniques de prise de notes efficaces pour gestionnaire
 permalink: prise-notes-gestionnaire
+description_ready: true
 categories:
 - Gestion et productivité
 ---
 ## Description
 Il y a des dizaines de raisons de vouloir prendre des notes efficaces:
+
 * c'est une façon de combattre la perte de productivité associée aux nombreuses interuptions qui sont devenues le lot de plusieurs gestionnaires
 * Andy Grove, reconnu comme un des meilleurs PDG de l'histoire, insiste sur le fait que les [gestionnaires doivent prendre des notes](https://getlighthouse.com/blog/andy-grove-quotes-leadership-high-output-management/), en particulier lors des rencontres avec leurs équipes
 * de façon similaire, les [gestionnnaires de produits doivent impérativement documenter les décisions](https://medium.com/greylock-perspectives/let-s-talk-about-product-management-d7bc5606e0c4#.rc0qiyp68) pour s'assurer d'une bonne exécution

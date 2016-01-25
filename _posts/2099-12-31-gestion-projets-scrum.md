@@ -2,6 +2,7 @@
 layout: course
 title: Scrum
 permalink: gestion-projets-scrum
+description_ready: false
 categories:
 - Gestion et productivité
 ---
