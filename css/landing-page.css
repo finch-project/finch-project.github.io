@@ -57,7 +57,7 @@ h6 {
 
 .intro-message > h2 {
     text-shadow: 2px 2px 3px rgba(0,0,0,0.6);
-    font-size: 48px;
+    font-size: 44px;
 }
 
 .intro-message > h3 {
@@ -98,8 +98,8 @@ h6 {
 .content {
   font-weight: normal;
   font-size: 20px;
-  padding-left: 60px;
-  padding-right: 60px;
+  padding-left: 30px;
+  padding-right: 30px;
   text-shadow: none;
 }
 
@@ -115,11 +115,12 @@ h6 {
 }
 
 .list-subscribe {
-  padding: 50px;
+  padding: 30px;
+  padding-bottom: 50px;
   padding-top: 30px;
   margin-top: 30px;
-  margin-left: 100px;
-  margin-right: 100px;
+  margin-left: 10px;
+  margin-right: 10px;
   border-radius: 10px;
   background-color:rgba(0, 0, 0, 0.5);
 }
@@ -127,7 +128,8 @@ h6 {
 .btn-main {
   background-color: #2CB04A;
   border-color: #2CB04A;
-  width: 200px;
+  width: 100%;
+  max-width: 250px;
   font-size: 18px;
   color: white;
   padding-top: 10px;
