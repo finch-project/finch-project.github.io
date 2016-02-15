@@ -155,6 +155,15 @@ h6 {
   padding-top: 10px;
 }
 
+#featured-courses {
+  padding-bottom: 10px;
+  padding-top: 20px;
+}
+
+#featured-courses a {
+  color: black;
+}
+
 #quote {
   font-size: 40px;
   font-weight: normal;

@@ -3,6 +3,8 @@ layout: course
 title: Introduction aux systèmes d'information de gestion
 permalink: systemes-information-gestion
 description_ready: true
+available: true
+featured: true
 categories:
 - Technologie
 ---
@@ -15,7 +17,7 @@ Les technologies et les systèmes d’information jouent aujourd’hui un rôle 
 * trois études de cas pratiques qui illustrent la matière du cours dans des contextes concrets d’industries différentes.
 
 ## Objectifs
-À la fin du cours, vous aurez une connaissance de base des thèmes suivants: 
+À la fin du cours, vous aurez une connaissance de base des thèmes suivants:
 
 * la théorie des systèmes d’information (application, données, métadonnées, ...)
 * l’intégration et l’interconnexion des systèmes d’information (services web, API, FTP, formats ouverts, XML …)
@@ -35,7 +37,7 @@ Vous aurez également les connaissances et le vocabulaire suffisants pour:
 
 
 ## Public cible
-Ce cours s’adresse aux professionnels et aux gestionnaires de différents domaines, peu importe dans quelle spécialité ils oeuvrent. Il ne demande pas de connaissances techniques particulières, bien qu’il porte sur des enjeux de systèmes techniques. 
+Ce cours s’adresse aux professionnels et aux gestionnaires de différents domaines, peu importe dans quelle spécialité ils oeuvrent. Il ne demande pas de connaissances techniques particulières, bien qu’il porte sur des enjeux de systèmes techniques.
 
 Il répondra aux besoins:
 
@@ -46,4 +48,3 @@ Il répondra aux besoins:
 Il ne répondra pas à vos besoins si vous cherchez à comprendre les modèles d’affaires, la commercialisation ou la législation entourant les systèmes d’information, ou si vous souhaitez obtenir de l’information technique détaillée sur certains systèmes spécifiques.
 
 Prérequis: il n’y a aucun prérequis à ce cours. Votre apprentissage sera facilité si vous avez déjà travaillé avec des systèmes d’information ou de simples logiciels dans un contexte professionnel.
-
