@@ -5,6 +5,7 @@ permalink: systemes-information-gestion
 description_ready: true
 available: true
 featured: true
+lms-link: https://finchp.didacte.com/a/course/363
 categories:
 - Technologie
 ---

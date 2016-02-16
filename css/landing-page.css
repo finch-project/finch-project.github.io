@@ -164,6 +164,23 @@ h6 {
   color: black;
 }
 
+#plan-and-signup {
+  padding: 30px;
+  padding-bottom: 50px;
+  padding-top: 30px;
+  margin-top: 30px;
+  margin-left: 10px;
+  margin-right: 10px;
+  margin-bottom: 30px;
+  border-radius: 10px;
+  background-color: #2CB04A;
+  text-align: center;
+}
+
+#plan-and-signup a {
+  color: white;
+}
+
 #quote {
   font-size: 40px;
   font-weight: normal;
