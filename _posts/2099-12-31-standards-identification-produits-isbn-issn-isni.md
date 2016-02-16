@@ -1,6 +1,6 @@
 ---
 layout: course
-title: Les standards d'identification de produits: ISBN, ISSN, ISNI et les autres. et plus...
+title: "Les standards d'identification de produits: ISBN, ISSN, ISNI et les autres. et plus..."
 permalink: standards-identification-produits-isbn-issn-isni
 description_ready: false
 categories:
@@ -14,4 +14,3 @@ Plus d'information à venir...
 
 ## Public cible
 Plus d'information à venir...
-

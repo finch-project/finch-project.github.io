@@ -1,6 +1,6 @@
 ---
 layout: course
-title: Métadonnées: pourquoi et comment?
+title: "Métadonnées: pourquoi et comment?"
 permalink: comprendre-metadonnees
 description_ready: false
 categories:
@@ -14,4 +14,3 @@ Plus d'information à venir...
 
 ## Public cible
 Plus d'information à venir...
-
