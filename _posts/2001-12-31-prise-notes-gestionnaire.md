@@ -1,7 +1,7 @@
 ---
 layout: course
 title: Techniques de prise de notes efficaces pour gestionnaire
-permalink: prise-notes-gestionnaire
+permalink: prise-notes-gestionnaire/
 description_ready: true
 categories:
 - Gestion et productivité
@@ -22,4 +22,3 @@ Plus d'information à venir...
 
 ## Public cible
 Gestionnaires d'équipe, gestionnaires de projets, gestionnaires de produits, scrum masters, gestionnaires de comptes, chef d'équipes, et plus largement quiconque doit gérer des interactions avec plusieurs personnes, ou doit accomplir un travail tout en faisant l'objet d'interruptions.
-

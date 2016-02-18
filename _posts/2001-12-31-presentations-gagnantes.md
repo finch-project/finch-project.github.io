@@ -1,7 +1,7 @@
 ---
 layout: course
 title: Faire des présentations gagnantes en personne ou à distance
-permalink: presentations-gagnantes
+permalink: presentations-gagnantes/
 description_ready: true
 categories:
 - Commercialisation
@@ -20,4 +20,3 @@ Ce cours vous permettra de développer des habiletés concernant:
 
 ## Public cible
 Tout gestionnaire ou professionnel ayant à faire des présentations à l'intérieur ou l'extérieur de son organisation.
-

@@ -1,7 +1,7 @@
 ---
 layout: course
 title: Kanban
-permalink: gestion-projets-kanban
+permalink: gestion-projets-kanban/
 description_ready: false
 categories:
 - Gestion et productivité
@@ -14,4 +14,3 @@ Plus d'information à venir...
 
 ## Public cible
 Plus d'information à venir...
-

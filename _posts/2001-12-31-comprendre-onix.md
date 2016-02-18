@@ -1,7 +1,7 @@
 ---
 layout: course
 title: Comprendre ONIX
-permalink: comprendre-onix
+permalink: comprendre-onix/
 description_ready: false
 categories:
 - Édition
@@ -14,4 +14,3 @@ Plus d'information à venir...
 
 ## Public cible
 Plus d'information à venir...
-

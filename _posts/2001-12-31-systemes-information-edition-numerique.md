@@ -1,7 +1,7 @@
 ---
 layout: course
 title: Les systèmes d'information et les technologies de l'édition numérique
-permalink: systemes-information-edition-numerique
+permalink: systemes-information-edition-numerique/
 description_ready: true
 categories:
 - Édition
@@ -26,4 +26,3 @@ Ce cours s'adresse aux acteurs de la chaîne de valeur du livre (auteurs éditeu
 Il n'a pas de pré-requis particulier, mais votre apprentissage sera optimisé si vous avez déjà lu ou vu un livre numérique.
 
 De plus, nous cours d'introduction aux systèmes d'information de gestion est recommandé préalablement à celui-ci si vous n'avez pas déjà une compréhension de base des systèmes et des technologies.
-

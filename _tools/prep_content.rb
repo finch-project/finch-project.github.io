@@ -26,7 +26,7 @@ def create_post(course)
   header = "---
 layout: course
 title: #{course[:title]}
-permalink: #{course[:code]}
+permalink: #{course[:code]}/
 description_ready: #{course[:description_ready]}
 categories:
 - #{course[:category]}

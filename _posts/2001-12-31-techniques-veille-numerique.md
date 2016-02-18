@@ -1,7 +1,7 @@
 ---
 layout: course
 title: Techniques de veille numérique efficace
-permalink: techniques-veille-numerique
+permalink: techniques-veille-numerique/
 description_ready: true
 categories:
 - Gestion et productivité
@@ -27,4 +27,3 @@ Vous apprendrez à utiliser les réseaux sociaux, les fils RSS, les agréagateur
 Tout gestionnaire ou professionnel d'un domaine qui demande de mettre à jour ses connaissances de façon continue.
 
 Des connaissances de base sur l'utilisation d'outils web (navigateur, moteur de recherche) sont nécessaires pour un apprentissage efficace.
-

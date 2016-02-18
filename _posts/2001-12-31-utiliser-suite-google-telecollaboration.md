@@ -1,7 +1,7 @@
 ---
 layout: course
 title: La suite bureautique Google et ses outils de télécollaboration.
-permalink: utiliser-suite-google-telecollaboration
+permalink: utiliser-suite-google-telecollaboration/
 description_ready: true
 categories:
 - Technologie
@@ -30,4 +30,3 @@ Si vous appliquez ces connaissances à des projets concrets, vous serez en mesur
 Ce cours s'adresse à tout professionnel qui doit travailler en équipe sur des documents bureautiques (traitement de texte, tableur, présentations, schémas).
 
 Vous devez avec des connaissances de base dans les outils bureautiques (par exemple, avoir déjà utilisé Microsoft Word ou LibreOffice), car le cours ne porte pas sur les fonctionnalités de base (de type copier-coller, mise en forme du texte, etc.)
-

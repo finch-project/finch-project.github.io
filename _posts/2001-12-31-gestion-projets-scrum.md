@@ -1,7 +1,7 @@
 ---
 layout: course
 title: Scrum
-permalink: gestion-projets-scrum
+permalink: gestion-projets-scrum/
 description_ready: false
 categories:
 - Gestion et productivité
@@ -14,4 +14,3 @@ Plus d'information à venir...
 
 ## Public cible
 Plus d'information à venir...
-

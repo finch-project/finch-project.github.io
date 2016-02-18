@@ -1,7 +1,7 @@
 ---
 layout: course
 title: Utilisation de Microsoft Excel
-permalink: utiliser-microsoft-excel
+permalink: utiliser-microsoft-excel/
 description_ready: false
 categories:
 - Technologie
@@ -14,4 +14,3 @@ Plus d'information à venir...
 
 ## Public cible
 Plus d'information à venir...
-

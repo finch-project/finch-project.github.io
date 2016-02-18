@@ -1,7 +1,7 @@
 ---
 layout: course
 title: "Les standards d'identification de produits: ISBN, ISSN, ISNI et les autres. et plus..."
-permalink: standards-identification-produits-isbn-issn-isni
+permalink: standards-identification-produits-isbn-issn-isni/
 description_ready: false
 categories:
 - Édition

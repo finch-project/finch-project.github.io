@@ -1,7 +1,7 @@
 ---
 layout: course
 title: Techniques de growth hacking
-permalink: techniques-growth-hacking
+permalink: techniques-growth-hacking/
 description_ready: false
 categories:
 - Commercialisation
@@ -14,4 +14,3 @@ Plus d'information à venir...
 
 ## Public cible
 Plus d'information à venir...
-

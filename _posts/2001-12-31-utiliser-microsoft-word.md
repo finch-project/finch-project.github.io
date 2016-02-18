@@ -1,7 +1,7 @@
 ---
 layout: course
 title: Utilisation de Microsoft Word
-permalink: utiliser-microsoft-word
+permalink: utiliser-microsoft-word/
 description_ready: false
 categories:
 - Technologie
@@ -14,4 +14,3 @@ Plus d'information à venir...
 
 ## Public cible
 Plus d'information à venir...
-
