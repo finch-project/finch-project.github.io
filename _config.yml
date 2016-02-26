@@ -18,6 +18,9 @@ exclude: [_tools]
 markdown: kramdown
 permalink: pretty
 
+gems:
+  - jekyll-sitemap
+
 # ----------------------- #
 #   3rd Party Settings    #
 # ----------------------- #
