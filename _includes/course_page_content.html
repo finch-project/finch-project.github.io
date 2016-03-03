@@ -1,16 +1,10 @@
-<div class="container content simple-content">
+<div class="container-fluid">
   <div class="row">
-    <div class="col-md-10">
+    <div class="col-md-9 content simple-content course-content">
       {{ content }}
     </div>
+    <div class="col-md-3">
+      {% include course_args.html %}
+    </div>
   </div>
-
-  {% if page.available %}
-  <div class="row col-md-6 col-md-offset-3" id="plan-and-signup">
-    <h3>Ça vous intéresse?</h3>
-    <a href="{{ page.lms-link }}" class="btn btn-lg btn-primary">Voir le plan de formation et s'inscrire!</a>
-  </div>
-  {% endif %}
-
-
 </div>

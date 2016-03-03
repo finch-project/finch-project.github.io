@@ -114,6 +114,16 @@ h6 {
   padding-bottom: 50px;
 }
 
+.course-content {
+  padding-top: 10px;
+}
+
+.course-content > h2 {
+  text-align: left;
+  padding-top: 10px;
+}
+
+
 .list-subscribe {
   padding: 30px;
   padding-bottom: 50px;
@@ -179,6 +189,30 @@ h6 {
 
 #plan-and-signup a {
   color: white;
+}
+
+#course-args {
+  background-color: #2CB04A;
+  height: 100%;
+  color: black;
+  font-weight: normal;
+  font-size: 20px;
+  padding: 20px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  border-radius: 10px;
+}
+
+#course-args > h3 {
+  color: white;
+}
+
+.course-args-faq > h3 {
+  color: white
+}
+
+.course-args-faq a {
+  color: #0000AA;
 }
 
 #quote {
