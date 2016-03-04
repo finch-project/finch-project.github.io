@@ -16,3 +16,28 @@
     </div>
   </div>
 </div>
+
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org/",
+  "@type": "CreativeWork",
+  "name": "{{ page.title }}",
+  "description": "«{{ page.title }}» est une formation en ligne offert par Projet Finch.",
+  "url": "http://www.FinchP.com{{ page.url }}",
+  "publisher": {
+    "@type": "Organization",
+    "name": "Projet Finch"
+  },
+  "learningResourceType": "Textes, illustrations et questionnaires",
+  "interactivityType": "mixed",
+  "inLanguage": "fr",
+  {% if page.date-published %}"datePublished": "{{ page.date-published }}",{% endif %}
+  {% capture keywords %}{{page.keywords}}{% if page.keywords %}, {% endif %}formation en ligne, cours en ligne{% endcapture %}
+  "keywords": "{{ keywords }}",
+  "copyrightHolder": {
+    "@type": "Organization",
+    "name": "Projet Finch"
+  },
+  "copyrightYear": "2016",
+}
+</script>

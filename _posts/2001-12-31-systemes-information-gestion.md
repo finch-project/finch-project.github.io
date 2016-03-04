@@ -6,6 +6,8 @@ description_ready: true
 available: true
 featured: true
 lms-link: https://finchp.didacte.com/a/course/363
+date-published: 2016-02-16
+keywords: systèmes d'information, métadonnées, inteconnexion, gouvernance, informatique, TI
 categories:
 - Technologie
 ---
