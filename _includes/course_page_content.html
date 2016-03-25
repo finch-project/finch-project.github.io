@@ -10,6 +10,9 @@
   <div class="row">
     <div class="col-md-{{ col1width }} content simple-content course-content">
       {{ content }}
+      {% if page.available %}
+        <a href="{{ page.lms-link }}" class="btn btn-lg btn-primary">S'inscrire gratuitement!</a>
+      {% endif %}
     </div>
     <div class="col-md-{{ col2width }}">
       {% include course_args.html %}
