@@ -12,6 +12,8 @@ categories:
 - Technologie
 hide-from-home: true
 ---
+# Pourquoi un cours sur les systèmes d'information?
+
 ### J’ai trop souvent vu, au cours de ma carrière, des situations invraisemblables qui émergent quand technologie et gestion entrent en collision:
 
 * Des gestionnaires qui ne comprennent rien de ce que leur directeur TI raconte
