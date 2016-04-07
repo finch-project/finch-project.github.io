@@ -24,18 +24,18 @@ hide-from-home: true
 
 Et à chaque fois, j’ai pu constater que **la majorité des inefficacités et des conflits de ce genre se règlent par des conversations et des échanges d’information**. Souvent, ces conversations ne sont rendues possibles qu’en présence d’un «interprète», _quelqu’un qui comprend les enjeux d’affaires ET ceux plus techniques_.
 
-Peut-être **à cause de ma double formation (en génie informatique et en administration des affaires)**, ou de mes centres d’intérêt, j’ai souvent été cet interprète dans ma carrière de gestionnaire des technologies, **au cours des 15 dernières années**. J’ai lancé Projet Finch avec l’objectif créer des _crash courses_ qui vous permettront d’acquérir des habiletés techniques et numériques de base, suffisantes pour avoir ces conversations essentielles aux progrès de votre entreprise.
+Peut-être **à cause de ma double formation (en génie informatique et en administration des affaires)**, ou de mes centres d’intérêt, j’ai souvent été cet interprète dans ma carrière de gestionnaire des technologies, **au cours des 15 dernières années**. J’ai lancé Projet Finch avec l’objectif créer des cours _express_, qui vous permettront d’acquérir en quelques heures des habiletés techniques et numériques de base, suffisantes pour avoir ces conversations essentielles aux progrès de votre entreprise et poursuivre votre apprentissage par la suite.
 
 ### Le cours «Introduction aux systèmes d'information de gestion» présente la base de ces habiletés, le vocabulaire qui vous permettra d’avoir des conversations saines et efficaces avec vos collègues informaticiens.
 
 Il le fait en présentant:
 
 * une introduction à la théorie des systèmes d’information
-* une présentation sur les mécanismes d’intégration de système
+* une présentation de ce qu'il faut savoir quand on intègre ensemble des systèmes
 * une discussion de **11 enjeux de gouvernance** importants relatifs aux systèmes d’information
 * **3 études de cas** pratiques qui illustrent la matière du cours dans des contextes concrets d’industries différentes.
 
-Je crois fondamentalement au développement itératif et à l’amélioration continue. C’est pourquoi j’offre l’épreuve non-révisée du cours gratuitement, pour une durée limitée. Vous pouvez consulter le plan de cours et vous y inscrire en cliquant sur le bouton en bas de cette page.
+Je crois fondamentalement à l'idée d'obtenir rapidement du _feedback_ afin d'améliorer la formation de façon continue. C’est pourquoi j’offre l’épreuve non-révisée du cours gratuitement, pour une durée limitée. Vous pouvez consulter le plan de cours et vous y inscrire en cliquant sur le bouton en bas de cette page.
 
 Ma seule demande, **c’est que vous me transmettiez de façon honnête votre feedback** après avoir pris connaissance du cours: j’en ai besoin pour l’améliorer.
 
